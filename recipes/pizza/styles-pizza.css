@@ -1,29 +1,22 @@
 *{
     background-color: rgb(211,211,211);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.title{
-    text-align: center;
-    font-size: 55px;
-    padding-bottom: 5%;
-}
-
-.recipe-link{
-    display: block;
     text-align: center;
 }
 
-.pizza{
-    padding-bottom: 1%;
+ul, ol{
+    list-style: none;
+    padding-bottom: 2%;
 }
 
-.onion-soup{
-    padding-bottom: 1%;
+li{
+    padding-bottom: .5%;
 }
 
-.creme-brulee{
-    padding-bottom: 1%;
+
+.pizza-img{
+    height: auto;
+    width: 400px;
 }
 
 a{
@@ -38,4 +31,3 @@ a:visited{
 a:hover{
     color: whitesmoke;
 }
-
