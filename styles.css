@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(211,211,211);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 5%;
+}
+
+.recipe-link{
+    display: block;
+    text-align: center;
+}
+
+.pizza{
+    padding-bottom: 1%;
+}
+
+.onion-soup{
+    padding-bottom: 1%;
+}
+
+.creme-brulee{
+    padding-bottom: 1%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+a:visited{
+    color: lightslategray;
+}
